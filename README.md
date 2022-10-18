@@ -5,7 +5,9 @@ Building Neural Networks
 2. Using Pytorch
 
 In both the implementations, there is<br />
--**INPUT LAYER** (8 nodes - features)<br />
--**HIDDEN LAYER 1** (10 nodes)<br />
--**HIDDEN LAYER 2** (10 nodes)<br />
--**OUTPUT LAYER** (2 nodes - 0 or 1)<br />
+- **INPUT LAYER** (8 nodes - features)<br />
+- **HIDDEN LAYER 1** (10 nodes)<br />
+- **HIDDEN LAYER 2** (10 nodes)<br />
+- **OUTPUT LAYER** (2 nodes - 0 or 1)<br />
+\
+![image](https://user-images.githubusercontent.com/94833021/196439903-09d8d6e3-dd8c-4484-82fb-b608a1a94ae2.png)
